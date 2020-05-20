@@ -15,5 +15,6 @@ for f in $kataloger; do
 done
 
 cd "$ordbokkatalog" || exit
+dos2unix $ordboknavn
 sort -u $ordboknavn > temp.dic
 mv temp.dic $ordboknavn
