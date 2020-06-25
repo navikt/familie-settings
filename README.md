@@ -17,8 +17,8 @@ og legge disse til i `nav.dic`. Scriptet henter ord fra alle prosjekter som ligg
 i katalogstrukturen din.
 
 ## settings:
-I IntelliJ under `Settings/ Inspections` trykk på tannhjulet ved siden av valgt profil 
+I IntelliJ under `Settings/Editor/Inspections` trykk på tannhjulet ved siden av valgt profil 
 velg `Import profile...` og velg `teamfamilie-inspections`. 
-I IntelliJ under `Settings/ Code Style` trykk på tannhjulet ved siden av valgt profil 
+I IntelliJ under `Settings/Editor/Code Style` trykk på tannhjulet ved siden av valgt profil 
 velg `Import scheme / IntelliJ IDEA code style XML` og velg `teamfamilie-code-style`. 
 
