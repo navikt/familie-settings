@@ -4,7 +4,7 @@ Ordbok, inspections, code style, m.m.
 ## ordbok: 
 For å legge til ordboken til IntelliJ:
 
-1. I IntelliJ, `Settings/ Editor / Spelling` trykk på «+» på siden av custom dictionaries. 
+1. I IntelliJ, `Settings/ Editor / Proofreading / Spelling` trykk på «+» på siden av custom dictionaries. 
 2. Velg filene `bokmål.dic` og `nav.dic` i ordbok-mappa. Trykk «OK».  
 
 Dette legger til norske ord og prosjektord til stavekontrollen. 
